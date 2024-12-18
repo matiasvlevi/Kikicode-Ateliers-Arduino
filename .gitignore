@@ -1,0 +1,8 @@
+_site
+.jekyll-cache
+.vscode
+
+# Hide document keys
+docs/**/*.key.sh
+docs/**/*.pdf
+docs/**/*.csv
